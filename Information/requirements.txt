@@ -1,0 +1,10 @@
+pybind11
+numpy
+scipy
+matplotlib
+flask
+numba
+os
+json
+requests
+pandas
